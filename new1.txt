@@ -1,10 +1,4 @@
 hello
-
-<<<<<<< HEAD
-
-
-
 this is experminet
-=======
 email resolved
->>>>>>> master
+
